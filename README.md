@@ -5,12 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:contato.davidelmondes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contato.davidelmondes%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/davi-delmondes">
-    <img src="https://img.shields.io/badge/GitHub-davi--delmondes-black?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <a href="mailto:contato.davidelmondes@gmail.com"><img src="https://img.shields.io/badge/Email-contato.davidelmondes%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/davi-delmondes"><img src="https://img.shields.io/badge/GitHub-davi--delmondes-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -45,31 +41,25 @@ Meu objetivo é criar projetos cada vez mais completos, melhorar minha lógica d
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>✅ Gerenciador de Tarefas</h3>
-      <p>
-        Sistema de gerenciamento de tarefas em terminal, desenvolvido com Python e SQLite.
-      </p>
-      <p><strong>Principais recursos:</strong></p>
+      <h3><a href="https://github.com/davi-delmondes/gerenciador-tarefas-sqlite">✅ Gerenciador de Tarefas</a></h3>
+      <p>Sistema em terminal para gerenciamento de tarefas, com persistência de dados usando SQLite.</p>
+      <p><strong>Tecnologias:</strong></p>
+      <p>Python • SQLite • CSV</p>
+      <p><strong>Recursos:</strong></p>
       <ul>
         <li>Cadastro de tarefas</li>
         <li>Pesquisa por título</li>
         <li>Edição e exclusão</li>
         <li>Marcação como concluída</li>
         <li>Exportação em CSV</li>
-        <li>Persistência com SQLite</li>
       </ul>
-      <p>
-        <a href="https://github.com/davi-delmondes/gerenciador-tarefas-sqlite">
-          🔗 Ver repositório
-        </a>
-      </p>
     </td>
     <td width="33%" valign="top">
-      <h3>🌤️ Consulta de Clima</h3>
-      <p>
-        Aplicação de terminal para consultar o clima atual de uma cidade usando a WeatherAPI.
-      </p>
-      <p><strong>Principais recursos:</strong></p>
+      <h3><a href="https://github.com/davi-delmondes/consulta-clima-python">🌤️ Consulta de Clima</a></h3>
+      <p>Aplicação em terminal para consultar o clima atual de uma cidade usando uma API externa.</p>
+      <p><strong>Tecnologias:</strong></p>
+      <p>Python • API • JSON • .env</p>
+      <p><strong>Recursos:</strong></p>
       <ul>
         <li>Consumo de API externa</li>
         <li>Uso de variável de ambiente</li>
@@ -77,31 +67,20 @@ Meu objetivo é criar projetos cada vez mais completos, melhorar minha lógica d
         <li>Validação dos dados recebidos</li>
         <li>Exibição organizada no terminal</li>
       </ul>
-      <p>
-        <a href="https://github.com/davi-delmondes/consulta-clima-python">
-          🔗 Ver repositório
-        </a>
-      </p>
     </td>
     <td width="33%" valign="top">
-      <h3>🛒 Mercado Python</h3>
-      <p>
-        Sistema de mercado em terminal desenvolvido como projeto de curso.
-      </p>
-      <p><strong>Principais recursos:</strong></p>
+      <h3><a href="https://github.com/davi-delmondes/mercado-python">🛒 Mercado Python</a></h3>
+      <p>Sistema de mercado em terminal, desenvolvido como projeto educacional do curso.</p>
+      <p><strong>Tecnologias:</strong></p>
+      <p>Python • JSON • Terminal</p>
+      <p><strong>Recursos:</strong></p>
       <ul>
         <li>Cadastro de usuários</li>
-        <li>Login de administrador e cliente</li>
+        <li>Login de admin e cliente</li>
         <li>Controle de produtos</li>
         <li>Carrinho de compras</li>
         <li>Relatório de vendas</li>
-        <li>Persistência com JSON</li>
       </ul>
-      <p>
-        <a href="https://github.com/davi-delmondes/mercado-python">
-          🔗 Ver repositório
-        </a>
-      </p>
     </td>
   </tr>
 </table>
@@ -110,23 +89,23 @@ Meu objetivo é criar projetos cada vez mais completos, melhorar minha lógica d
 
 ## 📚 Atualmente estudando
 
-* Python intermediário
-* Consumo de APIs REST
-* Banco de dados com SQLite
-* Organização e modularização de projetos
-* Boas práticas com Git e GitHub
-* Estruturação de portfólio
-* Lógica de programação e resolução de problemas
+- Python intermediário
+- Consumo de APIs REST
+- Banco de dados com SQLite
+- Organização e modularização de projetos
+- Boas práticas com Git e GitHub
+- Estruturação de portfólio
+- Lógica de programação e resolução de problemas
 
 ---
 
 ## 🎯 Próximos objetivos
 
-* Criar projetos mais completos usando Python, APIs e SQLite
-* Aprender testes automatizados com Python
-* Melhorar a organização dos projetos em módulos
-* Evoluir em desenvolvimento backend
-* Construir um portfólio cada vez mais profissional
+- Criar projetos mais completos usando Python, APIs e SQLite
+- Aprender testes automatizados com Python
+- Melhorar a organização dos projetos em módulos
+- Evoluir em desenvolvimento backend
+- Construir um portfólio cada vez mais profissional
 
 ---
 
@@ -142,10 +121,7 @@ Meu objetivo é criar projetos cada vez mais completos, melhorar minha lógica d
 ## 📫 Contato
 
 <p>
-  <a href="mailto:contato.davidelmondes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contato.davidelmondes%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/davi-delmondes">
-    <img src="https://img.shields.io/badge/GitHub-davi--delmondes-black?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <a href="mailto:contato.davidelmondes@gmail.com"><img src="https://img.shields.io/badge/Email-contato.davidelmondes%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/davi-delmondes"><img src="https://img.shields.io/badge/GitHub-davi--delmondes-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
