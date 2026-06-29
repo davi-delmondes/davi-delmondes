@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Davi Delmondes 👋</h1>
 
 <p align="center">
-  Estudante de Desenvolvimento de Sistemas, focado em Python, APIs, banco de dados e criação de projetos práticos para portfólio.
+  Estudante de Desenvolvimento de Sistemas, focado em Python, APIs, banco de dados, testes automatizados e criação de projetos práticos para portfólio.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou construindo minha base em programação com foco em projetos práticos, organização de código e resolução de problemas reais.
 
-Atualmente estou evoluindo meus conhecimentos em **Python**, **APIs**, **SQLite**, **Git/GitHub** e desenvolvimento backend.
+Atualmente estou evoluindo meus conhecimentos em **Python**, **APIs**, **SQLite**, **testes automatizados**, **Git/GitHub** e desenvolvimento backend.
 
 Meu objetivo é criar projetos cada vez mais completos, melhorar minha lógica de programação e construir um portfólio sólido para oportunidades na área de tecnologia.
 
@@ -29,6 +29,7 @@ Meu objetivo é criar projetos cada vez mais completos, melhorar minha lógica d
   <img src="https://img.shields.io/badge/APIs_REST-02569B?style=for-the-badge">
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -44,7 +45,7 @@ Meu objetivo é criar projetos cada vez mais completos, melhorar minha lógica d
       <h3><a href="https://github.com/davi-delmondes/gerenciador-tarefas-sqlite">✅ Gerenciador de Tarefas</a></h3>
       <p>Sistema em terminal para gerenciamento de tarefas, com persistência de dados usando SQLite.</p>
       <p><strong>Tecnologias:</strong></p>
-      <p>Python • SQLite • CSV</p>
+      <p>Python • SQLite • CSV • Pytest</p>
       <p><strong>Recursos:</strong></p>
       <ul>
         <li>Cadastro de tarefas</li>
@@ -52,13 +53,14 @@ Meu objetivo é criar projetos cada vez mais completos, melhorar minha lógica d
         <li>Edição e exclusão</li>
         <li>Marcação como concluída</li>
         <li>Exportação em CSV</li>
+        <li>Testes automatizados</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/davi-delmondes/consulta-clima-python">🌤️ Consulta de Clima</a></h3>
       <p>Aplicação em terminal para consultar o clima atual de uma cidade usando uma API externa.</p>
       <p><strong>Tecnologias:</strong></p>
-      <p>Python • API • JSON • .env</p>
+      <p>Python • API • JSON • Variáveis de ambiente</p>
       <p><strong>Recursos:</strong></p>
       <ul>
         <li>Consumo de API externa</li>
@@ -89,23 +91,25 @@ Meu objetivo é criar projetos cada vez mais completos, melhorar minha lógica d
 
 ## 📚 Atualmente estudando
 
-- Python intermediário
-- Consumo de APIs REST
-- Banco de dados com SQLite
-- Organização e modularização de projetos
-- Boas práticas com Git e GitHub
-- Estruturação de portfólio
-- Lógica de programação e resolução de problemas
+* Python intermediário
+* Consumo de APIs REST
+* Banco de dados com SQLite
+* Testes automatizados com Pytest
+* Organização e modularização de projetos
+* Boas práticas com Git e GitHub
+* Estruturação de portfólio
+* Lógica de programação e resolução de problemas
 
 ---
 
 ## 🎯 Próximos objetivos
 
-- Criar projetos mais completos usando Python, APIs e SQLite
-- Aprender testes automatizados com Python
-- Melhorar a organização dos projetos em módulos
-- Evoluir em desenvolvimento backend
-- Construir um portfólio cada vez mais profissional
+* Criar projetos mais completos usando Python, APIs e SQLite
+* Aplicar testes automatizados em mais projetos
+* Melhorar a organização dos projetos em módulos
+* Evoluir em desenvolvimento backend
+* Aprender fundamentos de desenvolvimento web
+* Construir um portfólio cada vez mais profissional
 
 ---
 
@@ -124,4 +128,3 @@ Meu objetivo é criar projetos cada vez mais completos, melhorar minha lógica d
   <a href="mailto:contato.davidelmondes@gmail.com"><img src="https://img.shields.io/badge/Email-contato.davidelmondes%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/davi-delmondes"><img src="https://img.shields.io/badge/GitHub-davi--delmondes-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
