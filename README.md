@@ -115,10 +115,10 @@ Meu objetivo é criar projetos cada vez mais completos, melhorar minha lógica d
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davi-delmondes&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-delmondes&layout=compact&theme=tokyonight&hide_border=true">
-</p>
+<div align="center">
+  <img src="./profile/stats.svg" width="400" alt="Estatísticas do GitHub">
+  <img src="./profile/top-langs.svg" width="400" alt="Linguagens mais utilizadas">
+</div>
 
 ---
 
